@@ -4,3 +4,5 @@ mysql data Load to jTabl java netbeans
 mysql data Load to jTable java netbeans
 
 | 🔥 Don't Click This Link: 🎁  https://bit.ly/3oZkT0p
+
+Java CRUD With GUI සිංහලෙන් ඉගන ගනිමු : https://youtu.be/uDjNtqRcQIM
